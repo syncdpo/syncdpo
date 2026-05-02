@@ -9,4 +9,6 @@ title: SyncDPO Code
 
 Code and model checkpoints for SyncDPO will be released soon.
 
+GitHub repository: [https://github.com/syncdpo/syncdpo_code](https://github.com/syncdpo/syncdpo_code)
+
 Please check this page for updates.
